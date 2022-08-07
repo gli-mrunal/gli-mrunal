@@ -1,10 +1,12 @@
 ### Hi there 👋
-
+<!--
 - 🔭 I’m currently working on GSoC 2022 recommendation engine project
 - 🌱 I’m currently learning end-to-end AI development 
-- 😄 [My GSoC Blog](https://gli-mrunal.github.io/categories/gsoc-blogging/)
+- 😄 [My GSoC Blog](https://gli-mrunal.github.io/categories/gsoc-blogging/) --> 
+
 
 <!--
+
 **gli-mrunal/gli-mrunal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 
 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 
 
+(github wiki -> https://github.com/ThanosM97/gsoc2022-openvino/wiki/)
 
 -->

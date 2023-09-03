@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on GSoC 2022 recommendation engine project
 - 🌱 I’m currently learning end-to-end AI development 
 - 😄 [My GSoC Blog](https://gli-mrunal.github.io/categories/gsoc-blogging/) --> 
-
+I am an polyglot AI wizard and coding conjurer, crafting AI spells from text, Speech and Multimodal data to weave insights from words, images, and sound! #AIDeveloper #AIAlchemy
 
 <!--
 
